@@ -16,7 +16,7 @@
 	</parent>
 
 	<properties>
-		<avro.version>1.10.2</avro.version>
+		<avro.version>1.11.5</avro.version>
 	</properties>
 
 	<dependencies>
